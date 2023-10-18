@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magabrielas
-- 👀 I’m interested in frontend mostly, but I want to learn back as well
-- 🌱 I’m currently learning microfrontend with Wepback's 5 Module Federation
+- 👀 I’m interested in javascript, front and back as well
+- 🌱 I’m currently learning how to use and develop applications with firebase
 - 📫 How to reach me itsmariagabriela@gmail.com
 
 <!---
